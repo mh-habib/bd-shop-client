@@ -12,5 +12,5 @@ This is a sample online shop application. Some one can buy his Product.
 
 
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+This section has moved here: [https://bd-shop-bd158.web.app](https://bd-shop-bd158.web.app)
 # full-stack-client-mh-habib
